@@ -286,6 +286,18 @@ The hospital should prioritise remediation of the identified vulnerabilities and
 
 ---
 
+## Final Penetration Testing Report
+
+The full report documents the five-day black-box penetration test conducted against Mediroza General Hospital as part of the Networkwalks Cybersecurity Internship (Batch B083, Week 4).
+
+It covers the assessment methodology, all four project milestones, identified vulnerabilities, evidence of exploitation, security impact, risk ratings and recommended remediation measures.
+
+**Report:** [View MEDIROZA GENERAL HOSPITAL – BLACK-BOX PENETRATION TESTING REPORT (PDF)](docs/MEDIROZA%20GENERAL%20HOSPITAL_BLACK-BOX%20PENETRATION%20TESTING%20REPORT.pdf)
+
+For the practical activities and detailed findings, see the [project documentation](Mediroza_Black_Box_Penetration_Testing.md).
+
+---
+
 ## Ethical and Data Handling Considerations
 
 This project involved authorised testing within the scope provided by the internship instructor.
