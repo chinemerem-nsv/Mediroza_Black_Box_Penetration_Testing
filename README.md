@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project documents a five-day black-box penetration-testing assessment conducted against the Mediroza General Hospital website as part of the Networkwalks Cybersecurity Internship (Batch B083, Week 4).
+This project documents a five-day black-box penetration-testing assessment conducted against the Mediroza General Hospital website as part of the Networkwalks Cybersecurity Internship (Batch B084, Week 4).
 
 **Target:** `https://medirozahospital.com`
 
